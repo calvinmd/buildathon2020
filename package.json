@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "aws-serverless-express": "3.3.8",
-    "fastify": "^2.10.0",
+    "fastify": "^2.15.1",
     "got": "11.3.0",
     "lodash": "4.17.15",
     "query-string": "6.13.1"
